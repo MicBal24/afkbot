@@ -8,7 +8,7 @@ jobs:
     - name: Start Afk-bot
       uses: Minionguyjpro/Afk-bot@v1.0.3
       with:
-        ip: example.ip.org
+        ip: woopors.aternos.me
         name: AFKBOT
-        port: 25565
+        port: 20131
         auto-night-skip: true
